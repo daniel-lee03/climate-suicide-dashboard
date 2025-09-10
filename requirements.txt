@@ -5,5 +5,7 @@ numpy
 requests
 plotly
 matplotlib
+seaborn
 Pillow
 scipy
+streamlit-echarts
